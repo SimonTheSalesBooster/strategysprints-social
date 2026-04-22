@@ -6,6 +6,29 @@
     <description><![CDATA[Founder voice. Strategy Sprints. Sales acceleration, AI GTM.]]></description>
     <language>en-us</language>
     <item>
+      <title>Advisor Playbook open-sourced</title>
+      <description><![CDATA[Last quarter these 5 decision frameworks saved us from two bad trades, killed two underperforming cold-email campaigns, and moved one private client from $1.3M to $3M/year in 90 days.
+
+Open-sourced today.
+
+The Advisor Playbook:
+→ Kill Triggers (when to sell)
+→ Un-Buy Review (would I buy this today?)
+→ Temperature Gauge (when standard rules stop applying)
+→ Task-Loss reframe (neutralize the #1 B2B AI objection)
+→ Fungibility Test (is AI going to sort you out?)
+
+Adapted from Howard Marks and Marc Andreessen. Running daily inside Strategy Sprints.
+
+MIT license. Steal them.
+
+https://github.com/SimonTheSalesBooster/advisor-playbook
+]]></description>
+      <link>https://strategysprints.com</link>
+      <pubDate>Wed, 22 Apr 2026 06:20:41 +0000</pubDate>
+      <guid isPermaLink="false">3c6af3bd9944465a0b10e6aac160bc4a2604eb41</guid>
+    </item>
+    <item>
       <title>Jetpack Sheet — what it is</title>
       <description><![CDATA[Most founders watched an AI workshop last quarter.
 How many have an agent running today? Almost none.
