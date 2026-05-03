@@ -6,6 +6,34 @@
     <description><![CDATA[Founder voice. Strategy Sprints. Sales acceleration, AI GTM.]]></description>
     <language>en-us</language>
     <item>
+      <title>Tailwind Tuesday repo launch</title>
+      <description><![CDATA[Most shoutout posts online get scrolled past. The author picks whoever they met yesterday and the reader can feel the lack of substance.
+
+Here is what we have been doing instead.
+
+Every Tuesday at 8am Vienna, an agent we built scans the past 28 days of my calendar, my call transcripts, and my coffee bookings. It picks ONE human I have had at least three real touchpoints with that month. Then it checks: have I actually witnessed a superpower, an act of integrity, or a moment of loyalty from this person? If the answer is yes with concrete evidence, it drafts a 5-line shoutout. If the answer is vague, it skips the week.
+
+The post celebrates THAT person. Their LinkedIn. Their work. Their ICP.
+
+Zero CTA back to me. No mention of my offers. No "DM me to learn more." The whole thing is a gift, or it does not ship.
+
+We call it Tailwind Tuesday 🪂
+
+The world has too many promoters and not enough endorsers. So we built the system, ran it for a while, and today we open-sourced it.
+
+Take it. Fork it. Build your own version for your own network. The README has the full architecture, the agent prompt, and a sample post showing what passes the evidence test (and what fails).
+
+If three of you build your own Tailwind Tuesday this month, the experiment was worth it.
+
+→ github.com/SimonTheSalesBooster/tailwind-tuesday
+
+PS .. yes, the post you might be reading from me one of these Tuesdays could be about you. The agent does not know yet who it picks next week. Neither do I.
+]]></description>
+      <link>https://strategysprints.com</link>
+      <pubDate>Sun, 03 May 2026 03:49:15 +0000</pubDate>
+      <guid isPermaLink="false">7506d17d8bbc5bdea01ff0e68c509a2bc99bf14b</guid>
+    </item>
+    <item>
       <title>Advisor Playbook open-sourced</title>
       <description><![CDATA[Last quarter these 5 decision frameworks saved us from two bad trades, killed two underperforming cold-email campaigns, and moved one private client from $1.3M to $3M/year in 90 days.
 
