@@ -6,6 +6,22 @@
     <description><![CDATA[Founder voice. Strategy Sprints. Sales acceleration, AI GTM.]]></description>
     <language>en-us</language>
     <item>
+      <title>The Algorithm - fork it</title>
+      <description><![CDATA[We open-sourced the five-step framework we run before we let ourselves build anything new.
+
+Question every requirement. Delete what has no named owner. Simplify what survives. Speed it up. Automate dead last.
+
+It's a Claude Code skill. Paste in your process, your tech stack, or that half-built automation nobody's finished, and it tells you what to cut before you add anything else.
+
+Free and open-source. Fork it, run it on your own team.
+
+github.com/SimonTheSalesBooster/the-algorithm
+]]></description>
+      <link>https://strategysprints.com</link>
+      <pubDate>Mon, 07 Sep 2026 10:43:04 +0000</pubDate>
+      <guid isPermaLink="false">0a1adb5f71ddc7dd9e53274b620194632faf25aa</guid>
+    </item>
+    <item>
       <title>AI agents on broken processes</title>
       <description><![CDATA[Everyone is racing to build an AI agent this month.
 
