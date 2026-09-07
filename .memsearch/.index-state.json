@@ -1,11 +1,11 @@
 {
   "collection": "ms_strategysprints_social_f85deba4",
   "failed_files": [],
-  "indexed_chunks": 2,
+  "indexed_chunks": 3,
   "indexed_files": 1,
-  "last_completed_at": "2026-09-07T10:51:20.500439Z",
-  "last_started_at": "2026-09-07T10:51:19.377680Z",
-  "last_success_at": "2026-09-07T10:51:20.500439Z",
+  "last_completed_at": "2026-09-07T11:34:52.372865Z",
+  "last_started_at": "2026-09-07T11:34:50.782882Z",
+  "last_success_at": "2026-09-07T11:34:52.372865Z",
   "milvus_uri": "~/.memsearch/milvus.db",
   "operation": "index",
   "paths": [
@@ -14,5 +14,5 @@
   "schema_version": 1,
   "status": "ok",
   "total_files": 1,
-  "updated_at": "2026-09-07T10:51:20.500439Z"
+  "updated_at": "2026-09-07T11:34:52.372865Z"
 }
