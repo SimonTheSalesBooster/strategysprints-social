@@ -6,6 +6,30 @@
     <description><![CDATA[Founder voice. Strategy Sprints. Sales acceleration, AI GTM.]]></description>
     <language>en-us</language>
     <item>
+      <title>The approval step nobody owns</title>
+      <description><![CDATA[A team asked me: "can we add an approval step before this goes out, and build a dashboard to track how long approvals take?"
+
+Ran it through The Algorithm instead.
+
+Question: who owns the requirement that this needs approval? No name, no reason. Just a leftover from when the team was three people.
+
+Delete: remove the approval step. Replace it with a standard the sender checks themselves.
+
+Simplify: one checklist, three items.
+
+Accelerate: sends go out same day now, not whenever the reviewer opens their calendar.
+
+Automate: nothing yet. Not until the manual version runs clean for a month.
+
+No dashboard needed. The thing it measured should not have existed.
+
+github.com/SimonTheSalesBooster/the-algorithm
+]]></description>
+      <link>https://strategysprints.com</link>
+      <pubDate>Mon, 07 Sep 2026 10:42:44 +0000</pubDate>
+      <guid isPermaLink="false">2a60f3d0256ad98d35f6de01ea89571cf53aac00</guid>
+    </item>
+    <item>
       <title>Delete before you automate</title>
       <description><![CDATA[Delete before you automate.
 
