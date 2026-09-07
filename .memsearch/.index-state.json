@@ -1,0 +1,18 @@
+{
+  "collection": "ms_strategysprints_social_f85deba4",
+  "failed_files": [],
+  "indexed_chunks": 2,
+  "indexed_files": 1,
+  "last_completed_at": "2026-09-07T10:48:09.472828Z",
+  "last_started_at": "2026-09-07T10:48:08.443619Z",
+  "last_success_at": "2026-09-07T10:48:09.472828Z",
+  "milvus_uri": "~/.memsearch/milvus.db",
+  "operation": "index",
+  "paths": [
+    "/Users/Simon/Documents/Claude/strategysprints-social/.memsearch/memory"
+  ],
+  "schema_version": 1,
+  "status": "ok",
+  "total_files": 1,
+  "updated_at": "2026-09-07T10:48:09.472828Z"
+}
