@@ -1,10 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>Strategy Sprints — Simon Severino</title>
     <link>https://strategysprints.com</link>
-    <description>Founder voice. Strategy Sprints. Sales acceleration, AI GTM.</description>
+    <description><![CDATA[Founder voice. Strategy Sprints. Sales acceleration, AI GTM.]]></description>
     <language>en-us</language>
+    <item>
+      <title>The Algorithm - the unowned requirement</title>
+      <description><![CDATA[There's a meeting on your calendar right now that nobody remembers requesting.<br><br>An approval step. A recurring report. A weekly sync that has run for two years straight.<br><br>Ask five people why it exists and you get five different guesses. Ask who owns the requirement, the actual name of a person who could kill it, and the room goes quiet.<br><br>That silence is the tell. No named owner means it survives by default, not by merit.<br><br>Comment OWNER if you've got one of these running right now and you genuinely don't know whose call it was.<br><br>The 5-step method that catches these before they multiply, free: github.com/SimonTheSalesBooster/the-algorithm]]></description>
+      <link>https://strategysprints.com</link>
+      <pubDate>Mon, 07 Sep 2026 10:58:34 +0000</pubDate>
+      <guid isPermaLink="false">4c889a7b73d8095adaf4cf7be63b7efa79fd0eb4</guid>
+    </item>
     <item>
       <title>36 Sales Gaps Toolkit: builder angle</title>
       <description><![CDATA[Open-sourced our internal deal-diagnostic framework today.<br><br>36 Sales Gaps: every reason a B2B deal stalls, mapped in three categories, each with an exact fix. It's what we run internally before every proposal and every deal review.<br><br>Turned it into 13 Claude Code skills. /gap-scan takes a deal and tells you exactly which of the 36 are live.<br><br>Free, MIT-licensed, on GitHub: https://github.com/SimonTheSalesBooster/36-sales-gaps-toolkit]]></description>
