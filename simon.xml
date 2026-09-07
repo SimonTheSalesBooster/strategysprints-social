@@ -1,61 +1,61 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0">
   <channel>
     <title>Strategy Sprints — Simon Severino</title>
     <link>https://strategysprints.com</link>
-    <description><![CDATA[Founder voice. Strategy Sprints. Sales acceleration, AI GTM.]]></description>
+    <description>Founder voice. Strategy Sprints. Sales acceleration, AI GTM.</description>
     <language>en-us</language>
     <item>
-      <title>36 Sales Gaps Toolkit</title>
-      <description><![CDATA[Open-sourced our internal deal-diagnostic framework today.
+      <title>36 Sales Gaps Toolkit: builder angle</title>
+      <description>Open-sourced our internal deal-diagnostic framework today.
 
 36 Sales Gaps: every reason a B2B deal stalls, mapped in three categories, each with an exact fix. It's what we run internally before every proposal and every deal review.
 
 Turned it into 13 Claude Code skills. /gap-scan takes a deal and tells you exactly which of the 36 are live.
 
 Free, MIT-licensed, on GitHub: https://github.com/SimonTheSalesBooster/36-sales-gaps-toolkit
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:45:09 +0000</pubDate>
       <guid isPermaLink="false">357599d9428a2dfccaae2116b9ddbfc90199bf9c</guid>
     </item>
     <item>
-      <title>36 Sales Gaps Toolkit</title>
-      <description><![CDATA[It's never "budget." It's never "timing." Those are just the two reasons buyers give you.
+      <title>36 Sales Gaps Toolkit: contrarian angle</title>
+      <description>It's never "budget." It's never "timing." Those are just the two reasons buyers give you.
 
 We mapped the 36 actual reasons a B2B deal dies: a stakeholder nobody mapped, a decision-maker who never saw the proposal, a margin that quietly went negative, an SOW that only ever lived in someone's memory.
 
 13 free Claude Code skills, one for each type of gap. Paste in your stuck deal, get the real reason back: https://github.com/SimonTheSalesBooster/36-sales-gaps-toolkit
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:45:07 +0000</pubDate>
       <guid isPermaLink="false">8abb6c6688dbd1309195d233bbc24029a8f5f302</guid>
     </item>
     <item>
-      <title>36 Sales Gaps Toolkit</title>
-      <description><![CDATA[Your team is not the problem. Except for 7 specific ways it might be.
+      <title>36 Sales Gaps Toolkit: team-gap angle</title>
+      <description>Your team is not the problem. Except for 7 specific ways it might be.
 
 We mapped 36 reasons B2B deals stall. Client-side, contract-side, and 7 that live entirely on your own team. Not "didn't try hard enough" reasons. Specific ones: not sure why working with us is urgent right now, delivery capacity never confirmed, pulled into an RFP instead of a real conversation.
 
 Free Claude Code skill audits your team against all 7 before you propose: https://github.com/SimonTheSalesBooster/36-sales-gaps-toolkit
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:45:06 +0000</pubDate>
       <guid isPermaLink="false">d2cbe8176da1c52548950adce0cbd2e632ed352d</guid>
     </item>
     <item>
       <title>Optimize nothing that shouldn't exist</title>
-      <description><![CDATA[The most common error of a smart engineer is to optimize a thing that should not exist.
+      <description>The most common error of a smart engineer is to optimize a thing that should not exist.
 
 Question it. Delete it. Only then simplify, speed up, and automate what's left.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:43:10 +0000</pubDate>
       <guid isPermaLink="false">3d505332c09ba313d21e647634060af6820a34c8</guid>
     </item>
     <item>
       <title>The Algorithm - fork it</title>
-      <description><![CDATA[We open-sourced the five-step framework we run before we let ourselves build anything new.
+      <description>We open-sourced the five-step framework we run before we let ourselves build anything new.
 
 Question every requirement. Delete what has no named owner. Simplify what survives. Speed it up. Automate dead last.
 
@@ -64,14 +64,14 @@ It's a Claude Code skill. Paste in your process, your tech stack, or that half-b
 Free and open-source. Fork it, run it on your own team.
 
 github.com/SimonTheSalesBooster/the-algorithm
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:43:04 +0000</pubDate>
       <guid isPermaLink="false">0a1adb5f71ddc7dd9e53274b620194632faf25aa</guid>
     </item>
     <item>
       <title>AI agents on broken processes</title>
-      <description><![CDATA[Everyone is racing to build an AI agent this month.
+      <description>Everyone is racing to build an AI agent this month.
 
 Almost nobody is asking if the process underneath it should exist at all.
 
@@ -82,14 +82,14 @@ Before you build the agent: question every step, delete what nobody can name an 
 That order is the whole difference between an agent that removes work and one that just industrializes a mess.
 
 Free skill, five steps, no infrastructure required to try it: github.com/SimonTheSalesBooster/the-algorithm
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:42:56 +0000</pubDate>
       <guid isPermaLink="false">91b9f45cfb0db5e7019cc58c89fc2e021dad0fee</guid>
     </item>
     <item>
       <title>Sales processes need a knife</title>
-      <description><![CDATA[Most sales processes don't need a new tool. They need a knife.
+      <description>Most sales processes don't need a new tool. They need a knife.
 
 Extra approval on the SOW. A CRM field nobody fills in. A forecast call that exists because it always has. Every one of those got added by someone, at some point, for a reason that made sense that week.
 
@@ -100,14 +100,14 @@ The 8 Steps of the Repeatable Sale we teach every client used to be twice as lon
 Fewer moving parts isn't the compromise. It's the whole method.
 
 Before you add another approval or another field, question it first: github.com/SimonTheSalesBooster/the-algorithm
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:42:50 +0000</pubDate>
       <guid isPermaLink="false">dbf41e969e91ec30dd62f7c466cf1404661fa9d8</guid>
     </item>
     <item>
       <title>The approval step nobody owns</title>
-      <description><![CDATA[A team asked me: "can we add an approval step before this goes out, and build a dashboard to track how long approvals take?"
+      <description>A team asked me: "can we add an approval step before this goes out, and build a dashboard to track how long approvals take?"
 
 Ran it through The Algorithm instead.
 
@@ -124,14 +124,14 @@ Automate: nothing yet. Not until the manual version runs clean for a month.
 No dashboard needed. The thing it measured should not have existed.
 
 github.com/SimonTheSalesBooster/the-algorithm
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:42:44 +0000</pubDate>
       <guid isPermaLink="false">2a60f3d0256ad98d35f6de01ea89571cf53aac00</guid>
     </item>
     <item>
       <title>Delete before you automate</title>
-      <description><![CDATA[Delete before you automate.
+      <description>Delete before you automate.
 
 Elon Musk drills this into every engineering team at SpaceX, Tesla, and Boring Company (it's in Isaacson's biography). Five steps, always in this order:
 
@@ -146,14 +146,14 @@ Skip to step 5 first and you just spent real money automating a mistake, faster.
 We turned it into a free Claude Code skill.
 
 Free. Open-source. Grab it: github.com/SimonTheSalesBooster/the-algorithm
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:42:36 +0000</pubDate>
       <guid isPermaLink="false">ce587597b98305bc41671c83db30251473777bd6</guid>
     </item>
     <item>
       <title>36 Sales Gaps Toolkit launch</title>
-      <description><![CDATA[36 reasons a B2B deal dies before it closes. We mapped every one of them.
+      <description>36 reasons a B2B deal dies before it closes. We mapped every one of them.
 
 If you've ever watched a good deal go quiet and couldn't say exactly why, it's usually not budget and it's not timing. It's something specific and nameable: a stakeholder who never got mapped, a margin that never got checked, an SOW that stayed verbal.
 
@@ -162,14 +162,14 @@ If you've ever watched a good deal go quiet and couldn't say exactly why, it's u
 We turned the full framework into 13 free Claude Code skills. Paste in a stuck deal, get back exactly which gaps are live and the move that closes each one.
 
 Free. Open-source. Grab it: https://github.com/SimonTheSalesBooster/36-sales-gaps-toolkit
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Mon, 07 Sep 2026 10:33:31 +0000</pubDate>
       <guid isPermaLink="false">d873ec6f809fe7896e4dcc2e0e80f24a93c49590</guid>
     </item>
     <item>
       <title>8 Steps Repeatable Sale - DM funnel</title>
-      <description><![CDATA[Every deal that's gone right for the 2,400 people we've coached followed the same 8 steps, in the same order.
+      <description>Every deal that's gone right for the 2,400 people we've coached followed the same 8 steps, in the same order.
 
 Every deal that's stalled skipped one.
 
@@ -180,14 +180,14 @@ Skip a step and the deal stalls. Run them in order and the close feels obvious. 
 I've never published the one-pager we run internally. Still has the coffee-ring stains from a hundred real calls. All 8 steps, in order.
 
 DM me READY and I'll send it over.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Wed, 26 Aug 2026 14:59:58 +0000</pubDate>
       <guid isPermaLink="false">7c6dfd1a6147d35f1ba8d91280f1c22a9a6380b8</guid>
     </item>
     <item>
       <title>Sales isn't the goal</title>
-      <description><![CDATA[Sales is not something to strive for.
+      <description>Sales is not something to strive for.
 
 It is what happens after you help someone make real progress on a problem they are stuck on.
 
@@ -196,28 +196,28 @@ Can I help you solve this. Can we build this together. Can we break through that
 Chase the close first and buyers feel it. Chase the problem first and the close finds you.
 
 Clip from my conversation on Doing Business with a Servant's Heart with Steve Ramona.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Fri, 17 Jul 2026 16:21:04 +0000</pubDate>
       <guid isPermaLink="false">85b2c74eb5d4366ffb81954b2f6f5a5f5282d7da</guid>
     </item>
     <item>
       <title>Dinner with Jesus and Schnitzel</title>
-      <description><![CDATA[Steve Ramona asked me a question I was not ready for: reserve a table in Vienna, invite three people who shaped your life, then pick the meal.
+      <description>Steve Ramona asked me a question I was not ready for: reserve a table in Vienna, invite three people who shaped your life, then pick the meal.
 
 Schnitzel, obviously, we are in Vienna. The harder part was the guest list. I left seats open on purpose. The people who show up uninvited are usually the ones worth having there.
 
 Some questions are not about tactics. They are about who belongs at the table once the tactics stop mattering.
 
 Full conversation on Doing Business with a Servant's Heart with Steve Ramona, link in comments.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Fri, 17 Jul 2026 16:21:03 +0000</pubDate>
       <guid isPermaLink="false">26d0f237a7ee4a048dff323599995cf001401a58</guid>
     </item>
     <item>
       <title>The nicest people close the fewest deals</title>
-      <description><![CDATA[The nicest people on sales calls close the fewest deals.
+      <description>The nicest people on sales calls close the fewest deals.
 
 After 23 years coaching sales conversations, that is the pattern I keep seeing. They listen. They say yes to everything the buyer asks for. The buyer leaves calling them a great resource.
 
@@ -228,14 +228,14 @@ Service does not mean surrendering control. It means preparing so well that you 
 The people who actually help buyers are the ones running the call, not agreeing with it.
 
 Clip from my conversation on Doing Business with a Servant's Heart with Steve Ramona. Full episode link in comments.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Fri, 17 Jul 2026 16:21:01 +0000</pubDate>
       <guid isPermaLink="false">c4880f839d0a223f96263057551501af2e3baeae</guid>
     </item>
     <item>
       <title>I fired my CRM</title>
-      <description><![CDATA[Five months ago I stopped opening a CRM.
+      <description>Five months ago I stopped opening a CRM.
 
 Not because I stopped tracking pipeline. Because I do not have to click through one anymore.
 
@@ -248,28 +248,28 @@ It coded its own CRM inside Notion in ten minutes. I cancelled Salesforce the sa
 If you are still logging activity by hand, you are not behind on AI. You are behind on delegation.
 
 Clip from my conversation on Doing Business with a Servant's Heart with Steve Ramona. Full episode link in comments.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Fri, 17 Jul 2026 16:20:59 +0000</pubDate>
       <guid isPermaLink="false">cfe84b405943947d74ef83893bfa151b3b5025b8</guid>
     </item>
     <item>
       <title>sevencritics MCP storefront</title>
-      <description><![CDATA[Copy that reads like nobody wrote it. That is the goal.
+      <description>Copy that reads like nobody wrote it. That is the goal.
 
 I built a free Claude Code skill. Seven hostile readers tear your draft apart. The skeptic. The CFO. The bored scroller. Each one tries to break it.
 
 github.com/SimonTheSalesBooster/sevencritics
 
 Run it on your next post.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Sun, 17 May 2026 05:42:40 +0000</pubDate>
       <guid isPermaLink="false">d38657842a70308bbaee48d4d1a89fab92ab3f4d</guid>
     </item>
     <item>
       <title>Tailwind Tuesday repo launch</title>
-      <description><![CDATA[Most shoutout posts online get scrolled past. The author picks whoever they met yesterday and the reader can feel the lack of substance.
+      <description>Most shoutout posts online get scrolled past. The author picks whoever they met yesterday and the reader can feel the lack of substance.
 
 Here is what we have been doing instead.
 
@@ -290,14 +290,14 @@ If three of you build your own Tailwind Tuesday this month, the experiment was w
 → github.com/SimonTheSalesBooster/tailwind-tuesday
 
 PS .. yes, the post you might be reading from me one of these Tuesdays could be about you. The agent does not know yet who it picks next week. Neither do I.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Sun, 03 May 2026 03:49:15 +0000</pubDate>
       <guid isPermaLink="false">7506d17d8bbc5bdea01ff0e68c509a2bc99bf14b</guid>
     </item>
     <item>
       <title>Advisor Playbook open-sourced</title>
-      <description><![CDATA[Last quarter these 5 decision frameworks saved us from two bad trades, killed two underperforming cold-email campaigns, and moved one private client from $1.3M to $3M/year in 90 days.
+      <description>Last quarter these 5 decision frameworks saved us from two bad trades, killed two underperforming cold-email campaigns, and moved one private client from $1.3M to $3M/year in 90 days.
 
 Open-sourced today.
 
@@ -313,14 +313,14 @@ Adapted from Howard Marks and Marc Andreessen. Running daily inside Strategy Spr
 MIT license. Steal them.
 
 https://github.com/SimonTheSalesBooster/advisor-playbook
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Wed, 22 Apr 2026 06:20:41 +0000</pubDate>
       <guid isPermaLink="false">3c6af3bd9944465a0b10e6aac160bc4a2604eb41</guid>
     </item>
     <item>
       <title>Jetpack Sheet — what it is</title>
-      <description><![CDATA[Most founders watched an AI workshop last quarter.
+      <description>Most founders watched an AI workshop last quarter.
 How many have an agent running today? Almost none.
 
 The gap is not the content. It's the install step.
@@ -342,14 +342,14 @@ We wrote it with the same screenshots we use inside the paid Jetpack cohort.
 This is the ladder most founders are missing.
 
 Link in comments.
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Tue, 21 Apr 2026 12:05:31 +0000</pubDate>
       <guid isPermaLink="false">4963ed0ec0b923fa4dc8c84cfc7cafafd774094e</guid>
     </item>
     <item>
       <title>Sales forces shrinking (evergreen)</title>
-      <description><![CDATA[Block cut 40% of its workforce. Stock jumped 18% the same day.
+      <description>Block cut 40% of its workforce. Stock jumped 18% the same day.
 
 The sales floor as we knew it is over.
 
@@ -375,7 +375,7 @@ Move first. Own the advantage.
 
 Grab a coffee if this is where you are:
 calendly.com/simonseverino/coffee-with-simon
-]]></description>
+</description>
       <link>https://strategysprints.com</link>
       <pubDate>Fri, 17 Apr 2026 08:12:00 +0000</pubDate>
       <guid isPermaLink="false">c0ea59f40b18f5b4fa49bcc357a4ce029d782b1e</guid>
